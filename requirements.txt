@@ -1,0 +1,9 @@
+flwr==0.16.0
+torch==1.10.0
+transformers==4.12.3
+flask==2.0.1
+datasets==1.11.0
+pyarrow
+matplotlib==3.5.1
+rouge-score
+shelve
